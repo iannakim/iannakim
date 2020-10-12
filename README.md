@@ -1,6 +1,6 @@
 # Hi, I'm Anna! 👋🏻 👩🏽‍💻
 
-📚 ->  💻  I'm a teacher turned software enginner who is passionate about building tech that will help bring communities together and serve a good purpose. I enjoy working with JavaScript, ReactJs, Ruby and Ruby on Rails but I'm always eager to learn something new every day. As an advocate for personal developnent and education, I like to spend my spare time reading and writing blogs to contribute back to the dev community. When I am not working on some side project, you'll find me cooking and feeding my friends while snuggling with my rescue puppy. 🐶 🌵
+📚 ->  💻  I'm a teacher turned software enginner who is passionate about building tech that will help bring communities together while providing great user experience. I enjoy working with JavaScript, ReactJs, Ruby and Ruby on Rails but am always eager to learn something new. I like to spend my spare time reading and writing blogs to contribute to the dev community and when I am not working on some side project, you'll find me cooking and feeding friends at home or snuggling with my rescue pup. 🐶 🌵
 
 ## Find me on the web 🌎
 - Let's connect! <a href="https://www.linkedin.com/in/problemsolveranna/"> LinkedIn </a> ☕️ 🥯
