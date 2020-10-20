@@ -5,3 +5,5 @@
 ## Find me on the web 🍑
 - Let's connect! <a href="https://www.linkedin.com/in/problemsolveranna/"> LinkedIn </a> ☕️ 🥯
 - Sharing what I've learned on  <a href="https://medium.com/@dear.hyunji"> Medium </a> 💬 ✍🏼
+
+![Anna's github stats](https://github-readme-stats.vercel.app/api?username=iannakim&theme=blueberry&show_icons=true)
