@@ -14,8 +14,8 @@
 ## Project Demo's 🎬
 - <a href="https://youtu.be/XhGUIsml7eE"> NYC School Monitor </a>(educational) React | Redux | JS | Semantic UI
 - <a href="https://youtu.be/hAE1uylB2h4"> Netflax </a> (entertainment) React | JS | CSS
-- <a href="https://youtu.be/Krfr_3usRQk"> Life After Covid </a>(e-commmerce) JS | RAILS API | Bootstrap
-- <a href="https://youtu.be/nC7PQP0Lf2o"> Coterie </a>(communication & community) RAILS | CSS | SASS
+- <a href="https://youtu.be/Krfr_3usRQk"> Life After Covid </a>(e-commmerce) JS | Rails API | Bootstrap
+- <a href="https://youtu.be/nC7PQP0Lf2o"> Coterie </a>(communication & community) Rails | CSS | Sass
 
 ## Github Stats ⌨️
 ![Anna's github stats](https://github-readme-stats.vercel.app/api?username=iannakim&theme=blueberry&show_icons=true)
