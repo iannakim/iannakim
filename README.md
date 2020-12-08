@@ -12,10 +12,10 @@
 - Sharing what I've learned on  <a href="https://medium.com/@dear.hyunji"> Medium </a> 💬 ✍🏼
 
 ## Project Demo's 🎬
--
--
--
--
+- <a href="https://youtu.be/XhGUIsml7eE"> NYC School Monitor (educational) </a>
+- <a href="https://youtu.be/hAE1uylB2h4"> Netflax (entertainment) </a> 
+- <a href="https://youtu.be/Krfr_3usRQk"> Life After Covid (e-commmerce) </a>
+- <a href="https://youtu.be/nC7PQP0Lf2o"> Coterie (communication & community) </a>
 
 ## Github Stats ⌨️
 ![Anna's github stats](https://github-readme-stats.vercel.app/api?username=iannakim&theme=blueberry&show_icons=true)
