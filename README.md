@@ -4,7 +4,7 @@
 
 ## Currently I am... 💡
 * Studying algorithms and data structures
-* Working on a side project (shh 🤫)
+* Working on a side project (shh 🤫 )
 * Open for new dev opportunities
 
 ## Find me on the web 🍑
