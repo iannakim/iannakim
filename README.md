@@ -5,7 +5,7 @@
 ## Currently I am... 💡
 * Studying algorithms and data structures
 * Working on a side project (shh 🤫 )
-* Open for new dev opportunities
+* Open for work and looking forward to joining a dev team ✌🏼
 
 ## Find me on the web 🍑
 - Let's connect! <a href="https://www.linkedin.com/in/devannakim/"> LinkedIn </a> ☕️ 🥯
