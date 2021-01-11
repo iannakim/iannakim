@@ -4,7 +4,7 @@
 
 ## Currently I am... 💡
 * Studying algorithms and data structures
-* Open for collabs ✌🏼
+* Learning more about SQL
 
 ## Find me on the web 🍑
 - Let's connect! <a href="https://www.linkedin.com/in/devannakim/"> LinkedIn </a> ☕️ 🥯
