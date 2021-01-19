@@ -7,12 +7,12 @@
 * Learning more about SQL
 * Practicing CSS/HTML5 skills 🖼
 
-## Find me on the web 🍑
+## 🌎 Let's be Internet BFF's!
 - <a href="https://annakim.dev">Portfolio</a> 
 - <a href="https://www.linkedin.com/in/devannakim/"> LinkedIn </a>
 - Scribbles and things on  <a href="https://medium.com/@dear.hyunji"> Medium </a> 💬 ✍🏼
 
-## Project Demo's 🎬
+## 🎬 Project Demo's
 - <a href="https://youtu.be/XhGUIsml7eE"> NYC School Monitor </a>(educational) React | Redux | JS | Semantic UI
 - <a href="https://youtu.be/hAE1uylB2h4"> Netflax </a> (entertainment) React | JS | CSS
 - <a href="https://youtu.be/Krfr_3usRQk"> Life After Covid </a>(e-commmerce) JS | Rails API | Bootstrap
