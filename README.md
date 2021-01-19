@@ -9,8 +9,8 @@
 
 ## Find me on the web 🍑
 - My <a href="https://annakim.dev">Portfolio</a> 
-- Let's connect! <a href="https://www.linkedin.com/in/devannakim/"> LinkedIn </a> ☕️ 🥯
-- Sharing what I've learned on  <a href="https://medium.com/@dear.hyunji"> Medium </a> 💬 ✍🏼
+- <a href="https://www.linkedin.com/in/devannakim/"> LinkedIn </a> ☕️ 🥯
+- Scribbles and things on  <a href="https://medium.com/@dear.hyunji"> Medium </a> 💬 ✍🏼
 
 ## Project Demo's 🎬
 - <a href="https://youtu.be/XhGUIsml7eE"> NYC School Monitor </a>(educational) React | Redux | JS | Semantic UI
