@@ -10,6 +10,7 @@ I'm a NYC teacher turned full stack developer who is passionate about coding and
 * Algorithms and data structures
 * Learning more about SQL!!
 * Further improving my CSS/HTML5 skills 🖼
+* (Next steps: Typescript, Go, and Java)
 
 ## 🎬 Project Demo's
 - <a href="https://youtu.be/XhGUIsml7eE"> NYC School Monitor </a>(educational) React | Redux | JS | Semantic UI
