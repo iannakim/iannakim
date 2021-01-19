@@ -1,6 +1,6 @@
 # Hi, I'm Anna! 👋🏻 👩🏽‍💻
 
-📚 I'm a NYC teacher turned full stack developer who is passionate about building tech that brings communities and generations together while elevating the quality of life. I enjoy working with JavaScript, ReactJs, Ruby and Ruby on Rails but am always eager to learn something new. Education is in my DNA and during my spare time, I like to read and contribute articles on Medium to learn and share with other devs. When I am not working on some side project, you'll find me cooking and feeding friends at home or snuggling with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
+📚 I'm a NYC teacher turned full stack developer who is passionate about coding and education. I enjoy working with JavaScript, React, Redux, Ruby and Ruby on Rails but am always eager to learn something new. Education is in my DNA and during my spare time, I like to read, cook, hike, and snuggle with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
 
 ## 🚧 Current Working On
 * Algorithms and data structures 🧠
