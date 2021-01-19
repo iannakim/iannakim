@@ -8,8 +8,8 @@
 * Practicing CSS/HTML5 skills 🖼
 
 ## Find me on the web 🍑
-- My <a href="https://annakim.dev">Portfolio</a> 
-- <a href="https://www.linkedin.com/in/devannakim/"> LinkedIn </a> ☕️ 🥯
+- <a href="https://annakim.dev">Portfolio</a> 
+- <a href="https://www.linkedin.com/in/devannakim/"> LinkedIn </a>
 - Scribbles and things on  <a href="https://medium.com/@dear.hyunji"> Medium </a> 💬 ✍🏼
 
 ## Project Demo's 🎬
