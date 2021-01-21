@@ -12,11 +12,12 @@ I'm a NYC teacher turned full stack developer who is passionate about coding and
 * Further improving my CSS/HTML5 skills 🖼
 * (Next steps: Typescript, Go, and Java)
 
-## 🎬 Project Demo's
+## 🎬 Project Demo's on Youtube
 - <a href="https://youtu.be/XhGUIsml7eE"> NYC School Monitor </a>(educational) React | Redux | JS | Semantic UI
 - <a href="https://youtu.be/hAE1uylB2h4"> Netflax </a> (entertainment) React | JS | CSS
 - <a href="https://youtu.be/Krfr_3usRQk"> Life After Covid </a>(e-commmerce) JS | Rails API | Bootstrap
 - <a href="https://youtu.be/nC7PQP0Lf2o"> Coterie </a>(communication & community) Rails | CSS | SASS 
+- Deployed: <a href="https://guarded-escarpment-91959.herokuapp.com/">Coterie LIVE </a> 🌎
 
 ## Github Stats ⌨️
 ![Anna's github stats](https://github-readme-stats.vercel.app/api?username=iannakim&theme=blueberry&show_icons=true)
