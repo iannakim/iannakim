@@ -2,7 +2,7 @@
 
 <centered><a href="https://annakim.dev">Website</a> • <a href="https://www.linkedin.com/in/devannakim/"> LinkedIn </a> • <a href="https://medium.com/@dear.hyunji">Blog</a></centered>
 
-I'm a NYC teacher turned full stack developer who is passionate about coding and education. Education is in my DNA and I enjoy working with JavaScript, React, Redux, Ruby and Ruby on Rails. My strength is in frontend development and I have an eye for good, intuitive designs. During my spare time I like to read, cook, hike, and snuggle with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
+I'm a full stack developer with a strong background in teaching who is passionate about solving problems and creating intuitive user experiences. Education is in my DNA and I enjoy working with JavaScript, React, Redux, Ruby and Ruby on Rails while looking to learn new things. During my spare time I like to read, cook, hike, and snuggle with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
 
 ## 🚧 Current Working On
 * Algorithms and data structures
