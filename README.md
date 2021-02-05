@@ -14,6 +14,3 @@ I'm a full stack developer with a strong background in teaching who is passionat
 - <a href="https://youtu.be/Krfr_3usRQk"> Life After Covid </a>(e-commmerce) JS | Rails API | Bootstrap
 - <a href="https://youtu.be/nC7PQP0Lf2o"> Coterie </a>(communication & community) Rails | CSS | SASS 
 - Deployed: <a href="https://guarded-escarpment-91959.herokuapp.com/">Coterie LIVE </a> 🌎
-
-## 📈 Github Stats
-![Anna's github stats](https://github-readme-stats.vercel.app/api?username=iannakim&theme=blueberry&show_icons=true)
