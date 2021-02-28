@@ -9,8 +9,8 @@ I'm a full stack developer with a strong background in teaching who is passionat
 * Building a new project [Read.It] and refactoring/fixing bugs on previous projects
 * Brushing up on hooks and functional components in React
 
-## Next Steps
-* MongoDB, Express, Next.js, Python, Kotlin
+## Would love to explore further:
+* Python, Kotlin
 
 ## 🎬 Projects
 - <a href="https://youtu.be/XhGUIsml7eE"> NYC School Monitor </a>(educational) React | Redux | JS | Semantic UI
