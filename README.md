@@ -7,7 +7,7 @@ I'm a full stack developer with a teaching background who is passionate about de
 ## 🚧 Would love to explore further:
 * Python, Kotlin
 
-## 🎬 Projects
+## 🎬 Project Demos
 - <a href="https://youtu.be/XhGUIsml7eE"> NYC School Monitor </a>(educational) React | Redux | JS | Semantic UI
 - <a href="https://youtu.be/hAE1uylB2h4"> Netflax </a> (entertainment) React | JS | CSS
 - <a href="https://youtu.be/Krfr_3usRQk"> Life After Covid </a>(e-commmerce) JS | Rails API | Bootstrap
