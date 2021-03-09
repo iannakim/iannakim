@@ -8,8 +8,8 @@ I'm a full stack developer with a teaching background who is passionate about de
 * Python, Kotlin
 
 ## 🎬 Project Demos
-- <a href="https://youtu.be/XhGUIsml7eE"> NYC School Monitor </a>(educational) React | Redux | JS | Semantic UI
-- <a href="https://youtu.be/hAE1uylB2h4"> Netflax </a> (entertainment) React | JS | CSS
+- <a href="https://youtu.be/XhGUIsml7eE"> NYC School Monitor </a>(education, reviews, nyc) React | Redux | JS | Semantic UI
+- <a href="https://youtu.be/hAE1uylB2h4"> Netflax </a> (entertainment, movies, TV shows) React | JS | CSS
 - <a href="https://youtu.be/Krfr_3usRQk"> Life After Covid </a>(e-commmerce) JS | Rails API | Bootstrap
-- <a href="https://youtu.be/nC7PQP0Lf2o"> Coterie </a>(communication & community) Rails | CSS | SASS 
+- <a href="https://youtu.be/nC7PQP0Lf2o"> Coterie </a>(online community, communication, event hosting) Rails | CSS | SASS 
 - Deployed: <a href="https://guarded-escarpment-91959.herokuapp.com/">Coterie LIVE </a> 🌎
