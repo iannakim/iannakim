@@ -5,10 +5,6 @@
 
 I'm a software enginner with a teaching background passionate about good design principles and creating an intuitive user experiences. I'm experienced in JavaScript, Ruby, Rails, React, Redux as well as CSS/HTML, Bootstrap, Semantic UI, Sass, PostgreSQL, Git, and few other things. During my spare time I love to cook, hike, and snuggle with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
 
-## Next Steps:
-* Docker / AWS
-* Python
-* Next.js
 
 ## 🎬 Personal Projects
 - <a href="https://youtu.be/XhGUIsml7eE"> NYC School Monitor </a>(<b>education, reviews, nyc</b>) React | Redux | JS | Semantic UI
