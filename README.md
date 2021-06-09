@@ -1,4 +1,4 @@
-# Hi, I'm Anna! 👋🏻 👩🏽‍💻
+# Hi, I'm Anna! 👋🏻 👩🏻‍💻
 
 <a href="https://annakim.dev" target="_new"><img src='image (4).png'> </img></a>
 <centered><a href="https://annakim.dev">Website</a> • <a href="https://www.linkedin.com/in/devannakim/"> LinkedIn </a> • <a href="https://annacodes.medium.com/">Blog</a></centered>
