@@ -3,7 +3,9 @@
 <a href="https://annakim.dev" target="_new"><img src='image (4).png'> </img></a>
 <centered><a href="https://annakim.dev">Website</a> • <a href="https://www.linkedin.com/in/devannakim/"> LinkedIn </a> • <a href="https://annacodes.medium.com/">Blog</a></centered>
 
-I'm a software enginner with a teaching background passionate about good design principles and creating an intuitive user experiences. I'm experienced in JavaScript, Ruby, Rails, React, Redux as well as CSS/HTML, Bootstrap, Semantic UI, Sass, Material UI, Emotions, PostgreSQL, Git, and few other things. Currently I'm learning Python and Django and it's very interesting! When I'm not coding, you'll find me in the kitchen cooking away, hiking with friends or snuggling with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
+I'm a software engineer with a passion for lifting others through tech. I'm a teacher turned techie who belives in learning something new everyday and sharing that knowledge with others. I love a good design but also strive to find the perfect balance between design versus accessibility.
+
+When I'm not coding, you'll find me in the kitchen cooking something spicy, hiking with friends or snuggling with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
 
 
 <!-- ## 🎬 Personal Projects
