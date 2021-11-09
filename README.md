@@ -5,7 +5,7 @@
 
 I'm a teacher turned software engineer with a passion for lifting others through tech. I love a good design but also strive to find the perfect balance between design versus functionality as well as accessibility. Currently deep diving into Python at the moment and continuing to learn how to write cleaner code.
 
-When I'm not coding, you'll find me in the kitchen cooking something spicy, hiking with friends or snuggling with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
+When I'm not coding, you'll find me attemping a new recipe in the kitchen, rock climbing or snuggling with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
 
 
 <!-- ## 🎬 Personal Projects
