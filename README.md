@@ -5,7 +5,7 @@
 
 I'm a teacher turned software engineer with a passion for lifting others through tech and learning new languagea in general. I love a good design and an intuitive user experience but also managing data cleanliness and writing efficient code. Currently working with Python, Django (MySQL), React JS and TypeScript (learning!).
 
-When I'm not coding, you'll find me attemping a new recipe in the kitchen, jamming with my band or snuggling with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
+When I'm not coding, you'll find me attemping a new recipe in the kitchen 👩🏻‍🍳, jamming with my band 🎹🎤 or snuggling with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
 
 
 <!-- ## 🎬 Personal Projects
