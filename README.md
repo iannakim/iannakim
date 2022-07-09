@@ -3,7 +3,7 @@
 <a href="https://annakim.dev" target="_new"><img src='image (4).png'> </img></a>
 <centered><a href="https://annakim.dev">Website</a> • <a href="https://www.linkedin.com/in/devannakim/"> LinkedIn </a> • <a href="https://annacodes.medium.com/">Blog</a></centered>
 
-I'm a teacher turned software engineer with a passion for lifting others through tech and learning new languagea in general. I love a good design and an intuitive user experience but also managing data cleanliness and writing efficient code. Currently working with Python, Django (MySQL), React JS and TypeScript (learning!).
+I'm a teacher turned software engineer with a passion for lifting others through tech and learning new languages. I love a good design and an intuitive user experience but also managing data cleanliness and writing efficient code. Currently deepning my knowledge in Python, and Django while honing my React skills.
 
 When I'm not coding, you'll find me attemping a new recipe in the kitchen 👩🏻‍🍳, jamming with my band 🎹🎤 or snuggling with my <a href="https://www.instagram.com/coopersadventuresnyc/">rescue pup</a>. 🐶
 
